@@ -27,6 +27,7 @@ Then on console,apply this:
 Backlog SetOption66 1; TuyaMCU 11,1; TuyaMCU 12,5; TuyaMCU 13,2; TuyaMCU 14,6; DimmerRange 1,255; SetOption59 1
 ```
 
+
 After that create rules:
 
 ```console
